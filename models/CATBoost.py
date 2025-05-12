@@ -7,7 +7,7 @@ pd.options.mode.copy_on_write = True
 import numpy as np
 import xgboost as xgb
 from sklearn.model_selection import KFold
-from cuml.preprocessing import TargetEncoder
+# from cuml.preprocessing import TargetEncoder
 from sklearn.preprocessing import LabelEncoder
 from tqdm.auto import tqdm
 from itertools import combinations
