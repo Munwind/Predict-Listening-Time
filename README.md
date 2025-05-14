@@ -21,7 +21,7 @@ The goal is to predict how long a listener will spend on a podcast episode (in *
 | `CATBoost.py`          | GPU CatBoost regressor with the same engineered feature set |
 | `DeepNeuralNetwork.py` | DeepTables (TF‑based) wide‑and‑deep network for tabular data |
 | `ensemble.ipynb`       | Simple arithmetic mean / rank‑averaging of model predictions |
-| `requirements.txt`     | (to be generated) exact python package set for local runs                           
+| `requirements.txt`     | Exact python package set for local runs                           
 
 ### 3 · Data pipeline & feature engineering
 
