@@ -5,6 +5,8 @@
 
 > *Tabular regression · Root‑Mean‑Squared Error (RMSE)*
 
+![image](https://github.com/user-attachments/assets/44935934-b7e4-41ea-bb4c-78c3f8fc47a2)
+
 ---
 
 ### 1 · Competition snapshot
