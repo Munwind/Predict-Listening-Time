@@ -5,7 +5,15 @@
 
 > *Tabular regression · Root‑Mean‑Squared Error (RMSE)*
 
-![image](https://github.com/user-attachments/assets/44935934-b7e4-41ea-bb4c-78c3f8fc47a2)
+# Our group: Hust cows on steppe hills
+ - Nguyen Cong Minh
+ - Pham Duy Hoang
+ - Bui Nguyen Minh
+ - Le Van Hau
+
+![b1585303-6db9-40b2-b5e8-d74886d70903](https://github.com/user-attachments/assets/0c0f16ee-d97a-4ba6-8aee-cbb3ea12fbe3)
+
+![image](https://github.com/user-attachments/assets/4f2de5ca-8eac-4570-86be-90eb7bafa14a)
 
 ---
 
